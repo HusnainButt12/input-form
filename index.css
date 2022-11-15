@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.box{
+    background-color: yellow;
+    color: rgb(255, 0, 0);
+    padding: 40px;
+    margin-top: 40px;
+    border: solid darkred 6px;
+    
+}
+.c{
+    text-align: center;
+    background-color: aqua;
+    margin-top: 5px;
+}
+.btn1{
+color: aqua;
+}
+
